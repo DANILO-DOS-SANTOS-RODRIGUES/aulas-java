@@ -9,6 +9,7 @@ public class aula04 {
         Double quartoValor = 10.9;
         Double resultadoMultiplicacao = terceiroValor * quartoValor;
         Double resultadoDivisao = terceiroValor / quartoValor;
+
         System.out.println("Os resultados dos calculos simples são: \n"+ "Soma: " + resultadoSoma + "\n" + "Subtração: " + resultadoSubtracao);
         System.out.println("Multiplicação: " + resultadoMultiplicacao + "\n" + "Divisão: " + resultadoDivisao);
 
