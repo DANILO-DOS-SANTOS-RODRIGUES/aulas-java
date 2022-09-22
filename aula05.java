@@ -10,7 +10,7 @@ public class aula05 {
         System.out.println("Informe um numero real: ");
         Float numeroReal = input.nextFloat();
 
-        System.out.println("As informações inseridas foram: \n" + "Numero inteiro: " + numeroInteiro + "\n" + "Numero real: " + numeroReal + "\n" + "Palavra/frase: " + frasePalavra );
+        System.out.println("As informações inseridas foram: \n" + "Palavra/frase: " + frasePalavra   + "\n" + "Numero inteiro: " + numeroInteiro + "\n" + "Numero real: " + numeroReal );
 
     }
 }
