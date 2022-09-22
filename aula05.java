@@ -3,6 +3,7 @@ import java.util.Scanner;
 public class aula05 {
     public static void main(String[] args) {
         Scanner input = new Scanner(System.in);
+
         System.out.println("Informe uma palavra ou frase: ");
         String frasePalavra = input.nextLine();
         System.out.println("Informe um numero inteiro: ");
