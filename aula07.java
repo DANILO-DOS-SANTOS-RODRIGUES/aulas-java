@@ -27,9 +27,9 @@ public class aula07 {
         listaInformacoes.add("lente");
         System.out.println(listaInformacoes.size());//.size tamanho da matriz
         System.out.println(listaInformacoes.contains("carteira"));//.contains() para mostrar/buscar um especifico
-        listaInformacoes.add(input.nextLine());
-        System.out.println(listaInformacoes);
-        listaInformacoes.add(input.nextLine());
-        System.out.println(listaInformacoes);
+//        listaInformacoes.add(input.nextLine());
+//        System.out.println(listaInformacoes);
+//        listaInformacoes.add(input.nextLine());
+//        System.out.println(listaInformacoes);
     }
 }
