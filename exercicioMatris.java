@@ -25,7 +25,7 @@ public class exercicioMatris {
         listaNomes.add(input.next());
         System.out.println("Insira o nono nome: ");
         listaNomes.add(input.next());
-        System.out.println("Insira o decimo nome: ");
+        System.out.println("Insira o decimo  nome: ");
         listaNomes.add(input.next());
 
         System.out.println(listaNomes);
